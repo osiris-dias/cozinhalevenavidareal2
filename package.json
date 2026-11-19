@@ -1,0 +1,27 @@
+{
+  "name": "cozinhalevenavidareal2",
+  "version": "1.0.0",
+  "description": "Cozinha Leve na Vida Real - Receitas e um plano para a sua rotina",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osiris-dias/cozinhalevenavidareal2.git"
+  },
+  "keywords": [
+    "receitas",
+    "culinaria",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osiris-dias/cozinhalevenavidareal2/issues"
+  },
+  "homepage": "https://github.com/osiris-dias/cozinhalevenavidareal2#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.1.0"
+  }
+}
